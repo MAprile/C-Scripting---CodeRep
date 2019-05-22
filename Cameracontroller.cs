@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//Basic Script. Camera will follow the player as it moves
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
